@@ -1,0 +1,28 @@
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.csproj.AssemblyReference.cache
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.Form1.resources
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.Properties.Resources.resources
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.csproj.GenerateResource.cache
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.csproj.CoreCompileInputs.cache
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.RehberdenSil.resources
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.RehbereEkle.resources
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.RehberiGuncelle.resources
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\rehber.RehberiListele.resources
+C:\Users\Vahit\source\repos\rehber\rehber\bin\Debug\TelefonRehberiDosyalla.exe.config
+C:\Users\Vahit\source\repos\rehber\rehber\bin\Debug\TelefonRehberiDosyalla.exe
+C:\Users\Vahit\source\repos\rehber\rehber\bin\Debug\TelefonRehberiDosyalla.pdb
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\TelefonRehberiDosyalla.exe
+C:\Users\Vahit\source\repos\rehber\rehber\obj\Debug\TelefonRehberiDosyalla.pdb
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\bin\Debug\TelefonRehberiDosyalla.exe.config
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\bin\Debug\TelefonRehberiDosyalla.exe
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\bin\Debug\TelefonRehberiDosyalla.pdb
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.Form1.resources
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.Properties.Resources.resources
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.RehberdenSil.resources
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.RehbereEkle.resources
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.RehberiGuncelle.resources
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.RehberiListele.resources
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\rehber.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\TelefonRehberiDosyalla.exe
+C:\Users\ali\Desktop\rehber - Kopya (2)\rehber\obj\Debug\TelefonRehberiDosyalla.pdb
